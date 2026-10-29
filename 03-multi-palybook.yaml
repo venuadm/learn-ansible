@@ -20,4 +20,4 @@
 
   - name: PLAY-2 and TASK-2
     debug:
-      msg: "Hello from PLAY-2 TASK-2"
+     msg: "Hello from PLAY-2 TASK-2"
